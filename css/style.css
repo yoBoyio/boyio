@@ -109,7 +109,32 @@ html, body {
             border-right-color: transparent;
       }
 }
+/*------------------ footer contact --------------*/
+#personal h4 a:hover{
+      color: #FF90A8;
 
+}
+#personal h4 a{
+      color: #fff;
+
+}
+#address h4 a:hover{
+      color: #FF90A8;
+   
+}
+#address h4 a{
+      color: #fff;
+}
+
+#media ul li {
+      color: #fff;      
+}
+#media ul li a{
+      color: #fff;      
+}
+#media ul li a:hover{
+      color: #FF90A8;
+}
 /*--------------- navigation --------------- */
 nav {
       width: 100%;
